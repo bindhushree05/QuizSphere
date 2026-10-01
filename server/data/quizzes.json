@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Film",
+    "description": "A quick tour through iconic scenes, directors, and cinematic craft.",
+    "category": "Culture",
+    "difficulty": "Medium",
+    "items": [
+      { "prompt": "Which director is known for Spirited Away?", "choices": ["Akira Kurosawa", "Hayao Miyazaki", "Bong Joon-ho", "Wong Kar-wai"], "answer": 1 },
+      { "prompt": "What does a cinematographer primarily shape?", "choices": ["The soundtrack", "The script", "The visual language", "The casting"], "answer": 2 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Botany Basics",
+    "description": "Can you tell a fern from a flowering plant? Let’s find out.",
+    "category": "Science",
+    "difficulty": "Easy",
+    "items": [
+      { "prompt": "What process lets plants turn light into energy?", "choices": ["Respiration", "Photosynthesis", "Fermentation", "Transpiration"], "answer": 1 },
+      { "prompt": "Which part absorbs water from soil?", "choices": ["Roots", "Flowers", "Fruit", "Stem"], "answer": 0 }
+    ]
+  }
+]

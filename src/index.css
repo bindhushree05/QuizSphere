@@ -1,0 +1,61 @@
+:root {
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  color: #272228;
+  background: #eaf3ee;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+
+  background-color: #eaf3ee;
+
+  background-image:
+    radial-gradient(
+      ellipse at 9% 8%,
+      rgba(158, 210, 186, 0.72),
+      transparent 36%
+    ),
+    radial-gradient(
+      ellipse at 91% 18%,
+      rgba(250, 210, 151, 0.68),
+      transparent 35%
+    ),
+    linear-gradient(
+      135deg,
+      #eaf3ee 0%,
+      #f2f5e8 52%,
+      #f8ecdc 100%
+    ),
+    repeating-linear-gradient(
+      135deg,
+      rgba(25, 69, 61, 0.025) 0 1px,
+      transparent 1px 7px
+    );
+
+  background-attachment: fixed;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.shell,
+.hero,
+.auth {
+  background: transparent;
+}

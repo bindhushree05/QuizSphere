@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1790767592521,
+    "email": "smoke-1790767591992@example.com",
+    "passwordHash": "026a02489eebfd7340f5eee9b06023c5:ba5e6943bc29d6c53daa6e9fb116eec665d965a8b88fb5a7484335df0cd8735f4de5c971c78ee41fd3ca70bcfa1f98d3663b308202609cbfa5005c931a00c188",
+    "role": "user"
+  },
+  {
+    "id": 1790767740813,
+    "email": "bindhushreeb05@gmail.com",
+    "passwordHash": "adac07a9bfe73ea38102ee8f341f7495:f7c2209dba4af32efb981b34c8ae70affdd6877879c7ca6c5380e46d054d3a22cb708c5647778a88760c54d21c3ca9f69ba9a6a3f2ffe66cb72fc57633c53d46",
+    "role": "user"
+  },
+  {
+    "id": 1790767893594,
+    "firstName": "Quiz",
+    "lastName": "Learner",
+    "mobile": "+1 555 123 4567",
+    "email": "profile-1790767893559@example.com",
+    "passwordHash": "db101e6e732faae9c57e50818d30ad67:4d89cb130a56f4c8dc60dcdab98d3d37925d9fa8a954c0fd4df40f7688e5cc5fb680d016d1f563a3f086467d78148a453209cf7bdb81387b7eaa9ccd30cb4aaf",
+    "role": "user"
+  },
+  {
+    "id": 1790825980419,
+    "firstName": "shreya",
+    "lastName": "b",
+    "mobile": "1234567890",
+    "email": "shreya@gmail.com",
+    "passwordHash": "f6a0070ddef5f03764667f3f3c43937a:f259791a4f9eca0cf7e009fda2f0d79f827eeb0bd6a2f475999dd37a2c38e7a6d71472f3a62a5b9351cd724ca84cedc1218c8719160a7dcb8b64fcab5a313fd9",
+    "role": "user"
+  }
+]
